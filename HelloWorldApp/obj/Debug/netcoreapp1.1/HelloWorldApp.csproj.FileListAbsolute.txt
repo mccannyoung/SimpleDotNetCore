@@ -1,0 +1,8 @@
+d:\SimpleDotNetCore\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.deps.json
+d:\SimpleDotNetCore\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.json
+d:\SimpleDotNetCore\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.dev.json
+d:\SimpleDotNetCore\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.dll
+d:\SimpleDotNetCore\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.pdb
+d:\SimpleDotNetCore\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.AssemblyInfo.cs
+d:\SimpleDotNetCore\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.dll
+d:\SimpleDotNetCore\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.pdb
